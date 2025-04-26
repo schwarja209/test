@@ -16,7 +16,7 @@ def classify_person(name, age):
         print(f"{name} is a senior")
 
 # Test cases
-classify_person("Alex", 10)
+classify_person("Alex", 13)
 classify_person("Jamie", 15)
 classify_person("Taylor", 30)
 classify_person("Morgan", 70)
